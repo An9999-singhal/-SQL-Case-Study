@@ -1,11 +1,49 @@
-# SQL-Case-Study
-# ✈️ Airline Database Analysis  
-### SQL | Data Analysis | Business Insights  
+# ✈️ Airline Data Analysis using SQL
 
-This project focuses on analyzing a real-world airline database using SQL to extract meaningful operational and customer insights. The objective was to solve business case questions by querying and analyzing data related to flights, passengers, and bookings, enabling a deeper understanding of airline performance and customer trends.  
+🚀 Extracting business insights from airline data using advanced SQL queries  
 
-The dataset included multiple interconnected tables, which were explored using advanced SQL techniques such as joins, CASE statements, and window functions. I wrote optimized queries to extract relevant data, identify patterns, and answer analytical questions related to booking behavior, flight performance, and customer segmentation.  
+---
 
-Through this analysis, I was able to uncover key insights into airline operations and booking trends, achieving approximately 95% accuracy across problem statements. The project highlights my ability to work with structured data, perform complex querying, and translate business requirements into data-driven insights.  
+## 🧠 Project Overview  
+This project focuses on analyzing a real-world airline database using SQL to extract meaningful operational and customer insights.  
 
-This case study demonstrates my proficiency in SQL and my capability to approach real-world business problems using data analysis and logical thinking.
+The dataset consists of multiple interconnected tables related to flights, passengers, and bookings. Using SQL, I explored the data and solved business case questions to understand airline performance and customer behavior.
+
+---
+
+## 🎯 Objective  
+- Analyze **flight operations and performance**  
+- Understand **customer booking behavior**  
+- Perform **customer segmentation analysis**  
+- Solve **business case questions using SQL**  
+- Enable **data-driven decision-making**  
+
+---
+
+
+
+## 📊 Key Features  
+- 🔗 Analysis across multiple related tables  
+- 📈 Query-based business insights  
+- 👥 Customer behavior and segmentation analysis  
+- ✈️ Flight performance evaluation  
+- 📊 Structured approach to solving business problems  
+
+---
+
+## ⚙️ Techniques Used  
+- Joins (INNER, LEFT, etc.)  
+- CASE Statements  
+- Window Functions (RANK, ROW_NUMBER, etc.)  
+- Aggregations (SUM, COUNT, AVG)  
+- Subqueries & CTEs  
+- Data Filtering & Grouping  
+
+---
+
+## 💡 Key Insights  
+- 📊 Identified patterns in booking behavior  
+- 👥 Segmented customers based on travel trends  
+- ✈️ Analyzed flight performance and operational efficiency  
+- 📈 Discovered trends useful for business decision-making  
+- ✅ Achieved ~95% accuracy across analytical problem statements  
